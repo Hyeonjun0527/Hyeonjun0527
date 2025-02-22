@@ -4,9 +4,8 @@ Always open mind!
 I'm XXXXXX developer from South Korea, currently living in South korea,Seoul.
 
 
-👉[**MY BLOG**](https://velog.io/@osumaniaddict527)
+👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
 <br/>
-👉[**PORTPOLIO**](https://www.notion.so/b20fef4a09934269a9d85fac3f816717)
 
 ### Things i code with
 ![React](https://img.shields.io/badge/React-blue)
