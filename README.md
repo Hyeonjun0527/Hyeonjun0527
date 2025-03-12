@@ -4,6 +4,7 @@ Always open mind!
 I'm Backend developer from South Korea, currently living in South korea,Seoul.
 
 ![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
 
 👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
