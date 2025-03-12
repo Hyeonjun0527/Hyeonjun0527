@@ -14,8 +14,13 @@ I'm XXXXXX developer from South Korea, currently living in South korea,Seoul.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
 
 ### Things i code with
-![React](https://img.shields.io/badge/React-blue)
-Spring
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+
 <!--
 **Hyeonjun0527/Hyeonjun0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
