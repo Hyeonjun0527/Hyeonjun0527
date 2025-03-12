@@ -1,7 +1,7 @@
 # 😎안녕하세요(hello!)
 Always open mind!
 <br/>
-I'm Backend developer from South Korea, currently living in South korea,Seoul.
+I'm Backend developer from South Korea.
 
 ![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
 <br/>
