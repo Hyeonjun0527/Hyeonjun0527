@@ -3,16 +3,11 @@ Always open mind!
 <br/>
 I'm Backend developer from South Korea, currently living in South korea,Seoul.
 
+![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
 
 👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
 <br/>
-
-![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
-
-
-## 백준 랭킹
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
-
 ### Things i code with
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
