@@ -17,6 +17,10 @@ I'm Backend developer from South Korea, currently living in South korea,Seoul.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your_github_username.your_github_username)
+![Snake animation](https://github.com/HyeonJun0527/HyeonJun0527/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Hyeonjun0527/Hyeonjun0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
