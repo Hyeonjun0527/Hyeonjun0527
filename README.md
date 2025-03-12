@@ -1,7 +1,7 @@
 # 😎안녕하세요(hello!)
 Always open mind!
 <br/>
-I'm XXXXXX developer from South Korea, currently living in South korea,Seoul.
+I'm Backend developer from South Korea, currently living in South korea,Seoul.
 
 
 👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
