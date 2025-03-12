@@ -11,7 +11,7 @@ I'm XXXXXX developer from South Korea, currently living in South korea,Seoul.
 
 
 ## 백준 랭킹
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)](https://solved.ac/wschoi789)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
 
 ### Things i code with
 ![React](https://img.shields.io/badge/React-blue)
