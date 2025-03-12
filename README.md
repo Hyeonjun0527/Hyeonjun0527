@@ -7,6 +7,8 @@ I'm XXXXXX developer from South Korea, currently living in South korea,Seoul.
 👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
 <br/>
 
+![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
+
 ### Things i code with
 ![React](https://img.shields.io/badge/React-blue)
 Spring
