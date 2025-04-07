@@ -3,6 +3,11 @@ Always open mind!
 <br/>
 I'm Backend developer from South Korea.
 
+아니?! 오늘 할 거 뒤지게 많잖아?
+개꿀잼인 걸?
+오늘 무슨 일이 있어도 다 해낸다..!!!!!!!
+그리고 가장 뿌듯했던 날을 오늘로 갱신한다..!!!!!!!!!!
+
 ![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
