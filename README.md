@@ -6,7 +6,7 @@ I'm Backend developer from South Korea.
 아니?! 오늘 할 거 뒤지게 많잖아? <br/>
 개꿀잼인 걸?<br/>
 오늘 무슨 일이 있어도 다 해낸다..!!!!!!! <br/>
-그리고 가장 뿌듯했던 날을 오늘로 갱신한다..!!!!!!!!!! <br/>
+그리고 나의 최고의 하루를 오늘로 갱신한다..!!!!!!!!!! <br/>
 
 ![HyeonJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyeonJun0527&show_icons=true&theme=radical)
 <br/>
