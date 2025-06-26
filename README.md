@@ -13,6 +13,9 @@ I'm Backend developer from South Korea.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789)](https://solved.ac/wschoi789)
 
 👉[**MY BLOG**](https://osumaniaddict527.tistory.com/)
+
+👉[**마이 페이지**](https://hyeonjun0527.github.io/)
+
 <br/>
 ### 🔥 Things I code with
 
