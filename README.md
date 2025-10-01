@@ -73,7 +73,5 @@
 
 </div>
 
----
-
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 <img src="https://raw.githubusercontent.com/HyeonJun0527/HyeonJun0527/output/github-snake.svg" alt="GitHub Snake" />
