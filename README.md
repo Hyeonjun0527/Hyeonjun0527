@@ -63,7 +63,7 @@
       </p>
     </td>
     <td width="50%" valign="center" align="center">
-      <strong>Data Structure & Algorithm</strong><br/>
+      <strong>Data Structure & Algorithm</strong><br/><br/><br/>
       <a href="https://solved.ac/wschoi789">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789" alt="Solved.ac Profile"/>
       </a>
