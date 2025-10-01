@@ -11,8 +11,6 @@
 </p>
 </div>
 
----
-
 <div align="center">
 
 ### My Core Tech
