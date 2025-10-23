@@ -9,7 +9,6 @@
 
 <p>
   <a href="https://osumaniaddict527.tistory.com/"><img alt="블로그 링크" src="https://img.shields.io/badge/블로그링크-Tistory-%23EC6A00?logo=tistory&logoColor=white"></a>
-  <a href="https://hyeonjun0527.github.io/"><img alt="My Page" src="https://img.shields.io/badge/포트폴리오-GitHub%20Pages-222?logo=githubpages&logoColor=white"></a>
 </p>
 </div>
 
