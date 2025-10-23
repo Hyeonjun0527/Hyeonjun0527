@@ -16,6 +16,20 @@
 
 <div align="center">
 
+## 부트캠프 및 사이드프로젝트
+
+**카카오 테크캠퍼스**<br/>
+사이트 : <a href="https://pull.it.kr"/>https://pull.it.kr</a><br/>
+깃허브 : <a href="https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories"/>https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories</a><br/>
+협업 공간 : <a href="https://www.notion.so/2-245c61d733498000a869fc6fb977d52e"/>https://www.notion.so/2-245c61d733498000a869fc6fb977d52e</a><br/>
+
+**제로투원**<br/>
+사이트 : <a href="https://zeroone.it.kr"/>https://zeroone.it.kr</a><br/>
+깃허브 : 프라이빗<br/>
+협업 공간 : 프라이빗<br/>
+
+
+
 ### My Core Tech
 
 <p>
