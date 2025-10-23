@@ -5,7 +5,7 @@
   
  아니?! 오늘 할 거 뒤지게 많잖아? 개꿀잼인 걸?<br/>
  오늘 무슨 일이 있어도 다 해내자. 오늘을 최고의 하루로 살아겠다는 다짐으로 해내자.<br/>
-<a href="https://osumaniaddict527.tistory.com/">https://osumaniaddict527.tistory.com/</a><br/>
+블로그 : <a href="https://osumaniaddict527.tistory.com/">https://osumaniaddict527.tistory.com/</a><br/>
 
 <p>
   <a href="https://osumaniaddict527.tistory.com/"><img alt="블로그 링크" src="https://img.shields.io/badge/블로그링크-Tistory-%23EC6A00?logo=tistory&logoColor=white"></a>
