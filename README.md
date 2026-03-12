@@ -3,8 +3,6 @@
   
 # 😎 안녕하세요 (Hello!)
   
- 아니?! 오늘 할 거 뒤지게 많잖아? 개꿀잼인 걸?<br/>
- 오늘 무슨 일이 있어도 다 해내자. 오늘을 최고의 하루로 살아겠다는 다짐으로 해내자.<br/>
 블로그 : <a href="https://osumaniaddict527.tistory.com/">https://osumaniaddict527.tistory.com/</a><br/>
 
 <p>
