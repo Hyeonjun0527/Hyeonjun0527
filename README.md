@@ -44,7 +44,7 @@
 ### I can Also deal with
 <table>
   <tr>
-    <td width="50%" valign="center" align="center">
+    <td width="33%" valign="center" align="center">
       <strong>Data / Persistence</strong><br/>
       <p>
         <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" />
@@ -75,10 +75,14 @@
         <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="center" align="center">
-      <strong>Data Structure & Algorithm</strong><br/><br/><br/>
+    <td width="33%" valign="center" align="center">
       <a href="https://solved.ac/wschoi789">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wschoi789" alt="Solved.ac Profile"/>
+      </a>
+    </td>
+    <td width="34%" valign="center" align="center">
+      <a href="https://www.git-ranker.com/ko/users/Hyeonjun0527">
+        <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjc0MjU5NTY0" alt="Git Ranker Badge" />
       </a>
     </td>
   </tr>
