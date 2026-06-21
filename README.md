@@ -15,6 +15,19 @@
 
 </div>
 
+<!-- ───────────────────────── AWARDS ───────────────────────── -->
+<div align="center">
+
+## 🏅 수상 경력 (Awards)
+
+<a href="https://pull.it.kr">
+  <img src="https://img.shields.io/badge/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%ED%85%8C%ED%81%AC%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81%20%C2%B7%20%EC%83%81%EA%B8%88%201%2C000%EB%A7%8C%EC%9B%90-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=000000&labelColor=FEE500" alt="카카오 테크캠퍼스 최우수상" />
+</a>
+
+🥇 **카카오 테크캠퍼스 3기 — 최우수상** <sub>(상금 1,000만원)</sub>
+
+</div>
+
 <!-- ───────────────────────── PROJECTS ───────────────────────── -->
 <div align="center">
 
@@ -25,7 +38,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏆 카카오 테크캠퍼스 <sub>(최우수상)</sub></h3>
+      <h3>🏆 카카오 테크캠퍼스</h3>
       <ul>
         <li>사이트 : <a href="https://pull.it.kr">https://pull.it.kr</a></li>
         <li>깃허브 : <a href="https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories">team2 repositories</a></li>
@@ -86,16 +99,6 @@
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-3EAAAF?logo=openid&logoColor=white" />
-</p>
-
-<p><b>Legacy</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Servlet-%23F8DC75.svg?logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/JSP-%23E34F26.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scriptlet-%23F7DF1E.svg?logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/EL-%23007ACC.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSTL-%23007396.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white" />
 </p>
 
 </div>
