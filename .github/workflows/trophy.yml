@@ -1,0 +1,37 @@
+name: Generate Profile Trophy
+
+on:
+  schedule: # 03:10 JST == 18:10 UTC
+    - cron: "10 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-trophy
+    steps:
+      - uses: actions/checkout@v5
+
+      # Self-host: render a static SVG so the README never depends on the
+      # public (currently disabled) github-profile-trophy.vercel.app service.
+      - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          file: profile-trophy.svg
+          theme: tokyonight
+          max-cols: "6"
+          margin-width: "8"
+          margin-height: "8"
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-trophy.svg
+          if git commit -m "chore: regenerate profile trophy"; then
+            git push
+          fi

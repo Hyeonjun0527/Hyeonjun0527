@@ -1,30 +1,52 @@
-
+<!-- ───────────────────────── HEADER ───────────────────────── -->
 <div align="center">
-  
-# 😎 안녕하세요 (Hello!)
-  
-블로그 : <a href="https://osumaniaddict527.tistory.com/">https://osumaniaddict527.tistory.com/</a><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:3178C6&height=200&section=header&text=Hyeonjun%20Choi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=20" alt="header" />
+
+<!-- typing subtitle -->
+<a href="https://osumaniaddict527.tistory.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=560&lines=%F0%9F%98%8E+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%B5%9C%ED%98%84%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4!;Spring+Boot+%26+Java+Backend+Developer;%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="typing" />
+</a>
 
 <p>
-  <a href="https://osumaniaddict527.tistory.com/"><img alt="블로그 링크" src="https://img.shields.io/badge/블로그링크-Tistory-%23EC6A00?logo=tistory&logoColor=white"></a>
+  <a href="https://osumaniaddict527.tistory.com/"><img alt="블로그 링크" src="https://img.shields.io/badge/Tistory_Blog-%23EC6A00?style=for-the-badge&logo=tistory&logoColor=white"></a>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=Hyeonjun0527&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
 </p>
+
 </div>
 
+<!-- ───────────────────────── PROJECTS ───────────────────────── -->
 <div align="center">
 
-## 부트캠프 및 사이드프로젝트
+## 🚀 부트캠프 및 사이드프로젝트
 
-**카카오 테크캠퍼스(최우수상)**<br/>
-사이트 : <a href="https://pull.it.kr"/>https://pull.it.kr</a><br/>
-깃허브 : <a href="https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories"/>https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories</a><br/>
-협업 공간 : <a href="https://www.notion.so/2-245c61d733498000a869fc6fb977d52e"/>https://www.notion.so/2-245c61d733498000a869fc6fb977d52e</a><br/>
+</div>
 
-**제로투원**<br/>
-사이트 : <a href="https://zeroone.it.kr"/>https://zeroone.it.kr</a><br/>
-깃허브 : 프라이빗<br/>
-협업 공간 : 프라이빗<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 카카오 테크캠퍼스 <sub>(최우수상)</sub></h3>
+      <ul>
+        <li>사이트 : <a href="https://pull.it.kr">https://pull.it.kr</a></li>
+        <li>깃허브 : <a href="https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories">team2 repositories</a></li>
+        <li>협업 공간 : <a href="https://www.notion.so/2-245c61d733498000a869fc6fb977d52e">Notion</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 제로투원</h3>
+      <ul>
+        <li>사이트 : <a href="https://zeroone.it.kr">https://zeroone.it.kr</a></li>
+        <li>깃허브 : 프라이빗</li>
+        <li>협업 공간 : 프라이빗</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<!-- ───────────────────────── TECH STACK ───────────────────────── -->
+<div align="center">
 
+## 🛠️ Tech Stack
 
 ### My Core Tech
 
@@ -42,6 +64,7 @@
 </p>
 
 ### I can Also deal with
+
 <table>
   <tr>
     <td width="33%" valign="center" align="center">
@@ -87,9 +110,29 @@
     </td>
   </tr>
 </table>
+
 </div>
+
+<!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
 <div align="center">
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hyeonjun0527&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjun0527&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=Hyeonjun0527&theme=tokyonight&hide_border=true" alt="streak" />
+
+## 🏆 Trophy
+
+<!-- self-hosted static SVG, generated daily by .github/workflows/trophy.yml -->
+<img width="98%" src="./profile-trophy.svg" alt="trophy" />
+
+## 🎢 Contribution
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 <img src="https://raw.githubusercontent.com/HyeonJun0527/HyeonJun0527/output/github-snake.svg" alt="GitHub Snake" />
+
 </div>
