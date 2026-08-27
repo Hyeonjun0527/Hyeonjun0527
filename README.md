@@ -46,11 +46,9 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 제로투원</h3>
+      <h3>💡 나만의 서비스 && 내 취향의 서비스 && 나의 포트폴리오 사이트</h3>
       <ul>
-        <li>사이트 : <a href="https://zeroone.it.kr">https://zeroone.it.kr</a></li>
-        <li>깃허브 : 프라이빗</li>
-        <li>협업 공간 : 프라이빗</li>
+        <li>사이트 : <a href="https://yeon.world">https://yeon.world</a></li>
       </ul>
     </td>
   </tr>
