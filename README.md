@@ -40,7 +40,7 @@
     <td width="50%" valign="top">
       <h3>🏆 카카오 테크캠퍼스</h3>
       <ul>
-        <li>사이트 : <a href="https://pull.it.kr">https://pull.it.kr</a></li>
+        <li>사이트 : <a href="https://portfolio.yeon.world/pull-it">https://portfolio.yeon.world/pull-it</a></li>
         <li>깃허브 : <a href="https://github.com/orgs/kakao-tech-campus-3rd-step3/teams/team2/repositories">team2 repositories</a></li>
         <li>협업 공간 : <a href="https://www.notion.so/2-245c61d733498000a869fc6fb977d52e">Notion</a></li>
       </ul>
