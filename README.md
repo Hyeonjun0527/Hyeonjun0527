@@ -20,7 +20,7 @@
 
 ## 🏅 수상 경력 (Awards)
 
-<a href="https://pull.it.kr">
+<a href="https://portfolio.yeon.world/pull-it">
   <img src="https://img.shields.io/badge/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%ED%85%8C%ED%81%AC%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81%20%C2%B7%20%EC%83%81%EA%B8%88%201%2C000%EB%A7%8C%EC%9B%90-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=000000&labelColor=FEE500" alt="카카오 테크캠퍼스 최우수상" />
 </a>
 
